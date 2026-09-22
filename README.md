@@ -1,1 +1,1 @@
-Random projects
+Collection of projects
